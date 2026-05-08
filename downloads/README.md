@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [Install Termius](./Install%20Termius)
 - [setup-Happ.x64](./setup-Happ.x64)
 
 ---
